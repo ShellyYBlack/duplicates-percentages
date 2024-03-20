@@ -1,0 +1,1 @@
+combine_csvs.py will combine multiple siegfried.csv files into one file. dupe_percents_dir.py will create a CSV file showing the directory name, the percentage of duplicate files, number of duplicates, and number of files. It also shows whether the directory is listed in a CSV that combines siegfried.csv files that were ingested into our preservation system. 
